@@ -8,4 +8,4 @@ Food security is a critical global issue, and accurate monitoring of farmland is
 Current Restrictions:Due to the involvement of KDANet technology in an ongoing research project, we are unable to release the complete source code at this time. This restriction is in place to ensure compliance with intellectual property rights and to protect the interests related to the project. We apologize for any inconvenience this may cause and hope for your understanding.
 
 
-Future Open-Source Plan:We are committed to making the complete KDANet source code publicly available on GitHub (the link has been added to the manuscript abstract) as soon as the project is concluded.
+Future Open-Source Plan:We are committed to making the complete KDANet source code publicly available on GitHub as soon as the project is concluded.
